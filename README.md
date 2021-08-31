@@ -2,7 +2,11 @@ Examples for [Banuba SDK on iOS](https://docs.banuba.com/face-ar-sdk/ios/ios_ove
 
 # Getting Started
 
-1. Get (a)the latest Banuba SDK archive, (b)BanubaFiltersAgoraExtension for iOS, (c) Banuba trial client token. To receive full commercial licence from Banuba - please fill in our form on form on banuba.com website, or contact us via info@banuba.com.
+1. Get
+(a)the latest Banuba SDK archive,
+(b)[BanubaFiltersAgoraExtension for iOS](https://f.hubspotusercontent10.net/hubfs/4992313/Agora_Banuba_Extension/AgoraBanubaExtension(iOS).zip),
+(c) [Banuba trial client token](https://docs.agora.io/en/extension_customer/Banuba_downloads).
+To receive full commercial licence from Banuba - please fill in our form on [form on banuba.com](https://www.banuba.com/face-filters-sdk) website, or contact us via [info@banuba.com](mailto:info@banuba.com).
 2. Put received `BanubaEffectPlayer.xcframework` adn `BanubaFiltersAgoraExtension.framework` to “Frameworks, Libraries, and Embedded Content” section in your project.
 3. Copy and Paste your banuba client token into appropriate section of `/BanubaAgoraFilters/Token.swift` with “ ” symbols. For example: 
 ``` swift
